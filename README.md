@@ -69,7 +69,3 @@ This project demonstrates the application of machine learning techniques to pred
 ## Author
 
 Sowmya Buruju
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
